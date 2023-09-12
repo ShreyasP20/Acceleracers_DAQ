@@ -46,7 +46,7 @@ Happy tinkering and driving!
 ---
 
 ## Contributors
-- [Your Name 1](https://github.com/your-name-1)
-- [Your Name 2](https://github.com/your-name-2)
+- [Shreyas Patil](https://github.com/ShreyasP20)
+
 
 ---
