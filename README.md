@@ -22,7 +22,7 @@ Our team has studied and integrated the Controller Area Network (CAN) module of 
 ## Battery Management System (BMS)
 We have worked on building a Thermistor Module for the BMS. This module provides temperature monitoring and control for the vehicle's batteries, ensuring their safety and longevity.
 
-![alt text](https://github.com/ShreyasP20/Acceleracers_DAQ/blob/main/Orion_BMS_2.png)
+![alt text](https://github.com/ShreyasP20/Acceleracers_DAQ/blob/main/Orion_BMS_2.png?raw=true)
 
 
 ## 9-Axis Accelerometer Study
